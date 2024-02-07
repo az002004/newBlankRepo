@@ -1,0 +1,2 @@
+# newBlankRepo
+Remoted repo.
